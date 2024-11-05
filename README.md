@@ -1,3 +1,4 @@
 # Football-Analysis-System
 
-A personal interest combining technology and football together for another computer vision project.
+Object detection and tracking for players and football.
+Football statistics calculated. 
